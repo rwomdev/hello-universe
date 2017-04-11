@@ -1,2 +1,5 @@
 # hello-universe
-My first ever repository
+
+Hello fellow humans,
+This is thank you for your kindness and hospitality.
+Bye :)
